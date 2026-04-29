@@ -95,7 +95,7 @@ durga = {
 |---|---|---|
 | [🔍 AI & Plagiarism Detector](https://github.com/Durgajk26/ai-detector) | Python · RoBERTa · NLTK · Streamlit | Two-layer detection system for educators. HuggingFace transformer + NLP signal analysis (burstiness, TTR). Live web search plagiarism check via TF-IDF cosine similarity. |
 | [📊 CSV MCP Server](https://github.com/Durgajk26/csv-mcp-agent) | Python · pandas · MCP · pytest | MCP server enabling AI assistants to analyse CSV files. 6 analyst tools, CLI via click, 13-test pytest suite. Installable via pip. |
-| [🤖 ML Classification Pipeline](https://github.com/Durgajk26/capstone_project) | Python · scikit-learn · pandas | End-to-end ML pipeline: preprocessing, feature engineering, model selection, and performance evaluation. |
+| [🧠 DataMind — AI Data Analyst](https://github.com/Durgajk26/documind) | FastAPI · Ollama · Plotly · Streamlit · pandas | Privacy-first AI data analyst. Upload any CSV/Excel for instant insights, auto-generated charts, anomaly detection & natural language Q&A. Runs 100% locally via Ollama — no data leaves your machine. |
 | [🛒 Bookstore SQL Analytics](https://github.com/Durgajk26/Bookstore_SQL) | PostgreSQL · SQL | Relational DB with 5+ tables. 20+ analytical queries — revenue reporting, CLV, KPIs, sales trends. |
 
 </div>
