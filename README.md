@@ -28,7 +28,6 @@ durga = {
                      "Two-layer AI writing detector for educators",
                      "Privacy-first local AI data analyst (DataMind)",
                      "Real-time facial recognition system"],
-    "award"       : "🏅 IEEE Best Student Volunteer Award",
     "open_to"     : ["Data Analyst", "ML Engineer", "AI Engineer", "Data Scientist"],
     "fun_fact"    : "I build production AI tools and call it homework 🚀"
 }
